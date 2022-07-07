@@ -22,7 +22,7 @@ public class SpringBootDemosApplication {
 		for(UserProjection userProjection : allUserProjections) {
 			System.out.println("Projections -> id -> " + userProjection.getId());
 			System.out.println("Projections -> first_name -> " + userProjection.getFirstName());
-			System.out.println("Projections -> last_name -> " + userProjection.getFirstName());
+			System.out.println("Projections -> last_name -> " + userProjection.getLastName());
 		}
 	}
 
