@@ -1,0 +1,1 @@
+INSERT INTO usertable VALUES ('123', 'Sandeep', 'Dass');
