@@ -1,0 +1,10 @@
+Wikipedia defines strategy pattern as:
+
+“In computer programming, the strategy pattern (also known as the policy pattern) is a software design pattern that enables an algorithm’s behavior to be selected at runtime. The strategy pattern
+defines a family of algorithms,
+encapsulates each algorithm, and
+makes the algorithms interchangeable within that family.”
+
+One of the best example of strategy pattern is Collections.sort() method that takes Comparator parameter. Based on the different implementations of Comparator interfaces, the Objects are getting sorted in different ways.
+
+https://www.journaldev.com/1754/strategy-design-pattern-in-java-example-tutorial
